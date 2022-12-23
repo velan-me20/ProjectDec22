@@ -17,5 +17,7 @@ public class Locators {
 		
 		WebElement txtPassword = driver.findElement(By.id("pass"));
 		txtPassword.sendKeys("9703376098");
+		
+		// comment added
 	}
 }
